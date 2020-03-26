@@ -1,0 +1,65 @@
+
+
+
+div.google-lett{
+	text-align:center;
+	margin-top:149px;
+}
+
+
+div.search-bar{
+	position:relative;
+	margin:20px;
+	text-align:center;
+}
+
+
+
+div.buttons{
+	position:relative;
+	margin-top:20px;
+	text-align:center;
+}
+
+input.barofsearch{
+	width:540px;
+	height:20px;
+	border-radius:24px;
+	padding:15px;
+
+}
+
+
+button.googl-btn{
+	border-radius:4px;
+	height:36px;
+	width:150px;
+	margin-right:13px;
+
+}
+
+button:hover {
+	background-color: lightgray;
+	border: 1px solid darkgray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
